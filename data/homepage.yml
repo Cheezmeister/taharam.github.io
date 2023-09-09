@@ -92,6 +92,7 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
+    instagram:  
   phone:
     title: "Phone Number"
     number: "#"
@@ -100,7 +101,10 @@ contact:
     email: '<a href="mailto:mayukotahara0428@gmail.com">mayukotahara0428[at]gmail.com</a>'
   address:
     title: "Address"
-    address: "Within 23 wards, Tokyo, Japan"
+    address: "Stuttgart, Germany"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
+  instagram:
+    title: "Instagram"
+    link: '<a href="https://www.instagram.com/may_travel_lover/">may_travel_lover</a>'
